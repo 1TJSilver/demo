@@ -4,4 +4,7 @@ public class Main {
             System.out.println(a);
         }
     }
+    public int checking (String s){
+        return 3;
+    }
 }
